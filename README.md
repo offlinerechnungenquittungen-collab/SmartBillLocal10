@@ -1,2 +1,2 @@
-# SmartBillLocal 
-Version 1.3.2
+# SmartBillLocal10
+Version 1.3.2 Release
